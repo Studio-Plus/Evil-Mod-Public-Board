@@ -1,12 +1,6 @@
-# Technology Pack Public Board
-Bugs and requests for the project 'Technology Pack' by Studio Plus.
+# Evil Mod Public Board
+Bugs and requests for the project 'Evil Mod' by Studio Plus.
 
-This mod is about adding advanced tech and gadgets into the game.
-
-There are 7 categories of technologies in this mod: Augmentations, Entities, Explosives, Firearms, Melees and Vehicles, as well as a miscellaneous items.
-
-If you are suggesting something for one of the 7 technologies categories, remember they need to be future-esk (most important to remember for firearms, malees and vehicles)
-
-Miscellaneous items usually probably will be cool or functional clothes or clothing items, like sunglasses (yes, this item will be addded in this mod)
+This mod adds a substance known as 'mallumium' into the gam ewhich is responsible for most existing items in the mod. It can corrupt anything: From bricks and dirt, through trees and animals up to humans and androids.
 
 Everyone who suggests ideas will be credited accordingly.
