@@ -1,5 +1,15 @@
 # EVIL MOD CHANGELOG
 
+## v2.0.1 (3rd Nov 2022)
+### Changed:
+- Corrupted blood on the back end
+- Some other mystery liquids
+
+### Fixed:
+- A chemistry reaction being 10x speed
+- Evil human sharp hands being able to affect androids
+
+
 ## v2.0.0 - DARKNESS RETURNS (2nd Nov 2022)
 ### Added:
 - Corrupted Technosword
