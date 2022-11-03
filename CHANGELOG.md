@@ -37,4 +37,5 @@
 - Probably a lot of other issues like this mod did not get support for 7 months or so I can only imagine what weird bugs have emerged over this time period
 
 ### Removed:
+- Metal Syringe
 - Inferior code
